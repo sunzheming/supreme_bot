@@ -1,0 +1,16 @@
+[credit card]
+name:Zheming Sun
+email: jimmysun123@gmail.com
+tel: 
+billing_address：
+billing_address_2: optional
+billing_zip: 
+billing_city:
+billing_state: 
+billing_country: 
+#visa, american_express, master
+card_type: 
+card_number: 
+card_exp_date_month: 
+card_exp_date_year: 
+card_verification_value: 

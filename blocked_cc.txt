@@ -1,0 +1,90 @@
+Location
+New York,
+United States
+Phone 585.374.2520
+Card Type MC
+Card Number 5121071727107603
+Card Expire 11/2005 (MM/YYYY)
+Card Verif. 702-703
+=============================
+Sandra Rodenberg
+Illinois Center for Autism
+618-398-7500
+sandrar1969@yahoo.com
+548 S Ruby Ln
+62208
+IL
+Fairview Heights
+US
+4828510386878052
+6/06
+==========================
+Last Name : Breen
+( censored ) : Male
+Date of Birth : 27-Dec-1968
+Phone : 02-87031701
+Mobile Phone : 0419279265
+Unit Number : 12
+Street
+
+======The following information are real, maybe invloved in legal issues=======
+ebit or credit card number : 5594600000699916
+Expiration date : 06 / 15
+Card Verification Number : 9916
+SecourCode : 674
+Card Signature/PIN : 0384
+
+ Account Open In: PA
+Online ID: kandisouza
+ATM or Check Card PIN: 0727
+Passcode: hanimahs92
+ Full Name: Sha-Minah A Souza
+Address Line 1: 1803 oberly street
+Address Line 2:
+City: bethlehem
+State: PA
+Zipcode: 18015
+Phone Number: 484-221-2777
+E-mail: shaminahsouza@gmail.com
+Password: hanimahs92
+==============================================
+Full Name : marie sanna
+Address : 71 jefferson avenue
+City : short hills
+State : nj
+Zip Code : 07078
+E-mail Address : marie.sanna@verizon.net
+Email Password : may1461
+
+Mother Maiden Name : piscopo
+Date of Birth : May/14/1965
+Social Security No : 104-48-0670
+ATM PIN Code : 0718
+Credit Card Number: 4207670036979600
+Expiration Date : 05/16 [mm/yy]
+CVV Number : 948
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ bejubhai@yahoo.com
+usman990
+Full Name : Mulu M Mersha
+Address : 5011 8TH ST NW
+City : Washington
+State : DC
+Zip Code : 20011
+E-mail Address : fmeabwmm@yahoo.com
+Email Password : amaa2995
+
+Mother Maiden Name : Gebru
+Date of Birth : Jun/06/1970
+Social Security No : 692-10-7663
+ATM PIN Code : 2551
+Credit Card Number: 4266841275412623
+Expiration Date : 10/14 [mm/yy]
+CVV Number : 370
+lover_gee007: paypal USA
+================================================
+apt-get install python-dev libffi-dev libssl-dev
+#Dependencies: pyOpenSSL, ndg-httpsclient, pyasn1
+sudo pip requests
+sudo pip requests[security]
+pip install --upgrade ndg-httpsclient
